@@ -1,0 +1,90 @@
+table->
+zilla,district, thana, location
+add column location in case
+
+
+
+ procedure
+
+add-resources.js ,resource db
+
+
+insert into notification
+
+
+----6 am
+ user.js,
+
+
+11 am
+navBar
+
+
+
+blog.js,side-navBar.ejs
+db-auth, procedure -> addUser , auth.js
+
+
+update-case.ejs, update.ejs,addnewCase.ejs,editcase.ejs-> body/case
+add-resources.ejs -> body/resources
+criminals->body 
+navBar,sidenavBar-> views/head
+
+update-api,db-case-api,detective-api, auth-api , criminal-api  -> db codes 
+
+
+case.js-> routes/cases
+criminal-stat.ejs->routes/criminal
+layout-search.ejs-> routes 
+user.js-> routes/users
+blog.js-> routes/posts 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+criminal-stat.js, detailsCrimi.ejs,search-criminal.ejs
+user.js,
+layout-search.ejs
+
+-----sent 
+
+
+
+11pm 
+addnewCase.ejs,register.ejs
+auth.js,db-auth-api, procedure
+
+
+12 am 
+noti-api,case.js
+det-api,case.js
+
+
+6am 
+auth.js,
+login.ejs,register.ejs
+editinfo.ejs
+search-case.ejs,case-api
+cases.js,case-api
+
+
+
+
+
+10 am 
+updateCase.ejs
+
+
+
+
